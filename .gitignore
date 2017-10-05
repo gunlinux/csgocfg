@@ -1,4 +1,5 @@
 *
 !.gitattributes
 !.gitignore
+!video.txt
 !loki*.cfg
